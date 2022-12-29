@@ -1,0 +1,27 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+#canvas{
+ 
+    border: 1px solid black;
+  position: relative;
+top:calc((100vh - 480px) / 2);
+    cursor: pointer;
+
+
+}
+
+body{
+
+display:flex;
+justify-content:center;
+align-items:center;
+min-hight:100vh;
+background:black;
+
+}
+
+
